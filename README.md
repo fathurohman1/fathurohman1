@@ -24,20 +24,20 @@
 ###
 
 <div align="left">
-  <a href="https://instagram.com/codewithflexz" target="_blank">
+  <a href="https://www.instagram.com/a_fathurohman_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.youtube.com/c/ProgrammingWithFlexZ" target="_blank">
+  <a href="https://www.youtube.com/c/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://tlgrm.in/Codewithflexz" target="_blank">
+  <a href="https://tlgrm.in/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-  <a href="https://amirbayat.dev@gmail.com" target="_blank">
+  <a href="https://fathurrhm909@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 
-  <a href="https://zaap.bio/CodeWithFlexz" target="_blank" rel="noreferrer">
+  <a href="https://zaap.bio/" target="_blank" rel="noreferrer">
   <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" width="50" />
   </a>
   
@@ -57,7 +57,7 @@
 ###
 
 <h2 align="left" style="color:white;" >💰 You can help me by Donating</h2>
-<a href="https://www.buymeacoffee.com/AmirBayat"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
+<a href="https://www.buymeacoffee.com/"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
 
 
 
